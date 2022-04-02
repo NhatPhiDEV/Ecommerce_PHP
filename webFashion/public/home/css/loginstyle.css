@@ -1,0 +1,32 @@
+.login-info {
+    margin-top: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+}
+.login {
+    display: flex;
+    padding: 0px 160px;
+    padding-top: 50px;
+    width: auto;
+}
+.login-left {
+    width: 50%;
+    word-spacing: 5px;
+}
+.input-box input {
+    width: 285px;
+    height: 30px;
+}
+.login-right {
+    width: 50%;
+    margin-left: 50px;
+    word-spacing: 5px;
+}
+.btn-box button {
+    width: 200px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}

@@ -1,0 +1,23 @@
+.regis-info {
+    margin-top: 60px;
+    text-align: center;
+    font-weight: bold;
+}
+.regis {
+    padding: 50px 15px 100px 15px;
+    /* padding: 50px 75px 100px 75px; */
+}
+
+.col-sm-6 input {
+    width: 100%;
+}
+.col-sm-6 select {
+    width: 100%;
+}
+.col-md-12 button {
+    width: 200px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
